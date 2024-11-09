@@ -27,7 +27,7 @@ It is worth noting that its use reduces energy consumption  by 54.9\% in compari
 
 ## Demo Videos
 To see MPC-DS in action, check out the following demo videos:
-- [Experiment and paper videos](https://www.youtube.com/watch?v=r6zXy7mL1Oc)
+- [Experiment and paper videos](https://www.youtube.com/watch?v=PIQQxaxqipc)
 
 ## License
 [MIT License](LICENSE)
